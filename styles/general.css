@@ -1,0 +1,16 @@
+
+body {
+  margin:0 ;
+  height: 3000px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+p{
+  margin: 0;
+}
+
